@@ -1,1 +1,1 @@
-This is a mini project go deconstruct an existing webpage and then rebuild it.
+This is a mini project to deconstruct an existing webpage and then rebuild it.
