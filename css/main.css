@@ -1,0 +1,21 @@
+/* Main CSS Document */
+
+#google-image {
+    
+}
+
+div {
+    width: 100%;
+}
+
+#center-container {
+    width: 100%;
+    Height: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+#center-p {
+    text-align: center;
+}
